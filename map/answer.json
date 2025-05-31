@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "iteration": 1,
+      "solution": 50,
+      "populationMean": 53
+    },
+    {
+      "iteration": 2,
+      "solution": 45,
+      "populationMean": 47
+    },
+    {
+      "iteration": 3,
+      "solution": 40,
+      "populationMean": 44
+    },
+    {
+      "iteration": 4,
+      "solution": 35,
+      "populationMean": 36
+    },
+    {
+      "iteration": 5,
+      "solution": 30,
+      "populationMean": 34
+    },
+    {
+      "iteration": 6,
+      "solution": 25,
+      "populationMean": 31
+    },
+    {
+      "iteration": 7, 
+      "solution": 25,
+      "populationMean": 27
+    }
+  ]
+}

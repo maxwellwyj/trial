@@ -1,0 +1,74 @@
+{
+    "RepairConditions":[
+      {
+        "type":1,
+        "serial": 1,
+        "content": "钢轨母材探伤",
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 1,
+        "serial": 2,
+        "content": "双轨探伤仪母材探伤",
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 2,
+        "serial": 3,
+        "content": "整治钢轨接头错牙",
+        "laborNumber": 2,
+        "laborQuota": 25
+      },
+      {
+        "type": 1,
+        "serial": 4,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 1,
+        "serial": 5,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 1,
+        "serial": 6,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 2,
+        "serial": 7,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 2,
+        "serial": 8,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 2,
+        "serial": 9,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      },
+      {
+        "type": 2,
+        "serial": 10,
+        "content": null,
+        "laborNumber": 4,
+        "laborQuota": 25
+      }
+    ]
+}
