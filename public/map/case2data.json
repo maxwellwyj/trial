@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "position": 1,
+      "wearLevel": 2,
+      "damageDegree": 3
+    },
+    {
+      "position": 4,
+      "wearLevel": 5,
+      "damageDegree": 6
+    },
+    {
+      "position": 7,
+      "wearLevel": 8,
+      "damageDegree": 9
+    },
+    {
+      "position": 10,
+      "wearLevel": 11,
+      "damageDegree": 12
+    },
+    {
+      "position": 13,
+      "wearLevel": 14,
+      "damageDegree": 15
+    },
+    {
+      "position": 16,
+      "wearLevel": 17,  
+      "damageDegree": 18
+    }
+
+
+  ]
+}

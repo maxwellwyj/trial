@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "date": "2021-01-01",
+      "measurements": [
+        {
+          "position": 100,
+          "surfaceCrack": 5,
+          "railheadWear": 3,
+          "surfaceWear": 9
+        },
+        {
+          "position": 150,
+          "surfaceCrack": 2,
+          "railheadWear": 1,
+          "surfaceWear": 3
+        },
+        {
+          "position": 180,
+          "surfaceCrack": 7,
+          "railheadWear": 5,
+          "surfaceWear": 4
+        },
+        {
+          "position": 200,
+          "surfaceCrack": 1,
+          "railheadWear": 2,
+          "surfaceWear": 1
+        },
+        {
+          "position": 230,
+          "surfaceCrack": 4,
+          "railheadWear": 3,
+          "surfaceWear": 8
+        },
+        {
+          "position": 280,
+          "surfaceCrack": 6,
+          "railheadWear": 4,
+          "surfaceWear": 6
+        }
+      ]
+    },
+    {
+      "date": "2021-01-02",
+      "measurements": [
+        {
+          "position": 100,
+          "surfaceCrack": 2,
+          "railheadWear": 1,
+          "surfaceWear": 2
+        },
+        {
+          "position": 150,
+          "surfaceCrack": 4,
+          "railheadWear": 3,
+          "surfaceWear": 10
+        },
+        {
+          "position": 180,
+          "surfaceCrack": 1,
+          "railheadWear": 2,
+          "surfaceWear": 5
+        },
+        {
+          "position": 200,
+          "surfaceCrack": 6,
+          "railheadWear": 4,
+          "surfaceWear": 7
+        },
+        {
+          "position": 230,
+          "surfaceCrack": 7,
+          "railheadWear": 5,
+          "surfaceWear": 31
+        },
+        {
+          "position": 280,
+          "surfaceCrack": 3,
+          "railheadWear": 2,
+          "surfaceWear": 33
+        }
+      ]
+    },
+    {
+      "date": "2021-01-03",
+      "measurements": [
+        {
+          "position": 100,
+          "surfaceCrack": 4,
+          "railheadWear": 2,
+          "surfaceWear": 41
+        },
+        {
+          "position": 150,
+          "surfaceCrack": 6,
+          "railheadWear": 5,
+          "surfaceWear": 3
+        },
+        {
+          "position": 180,
+          "surfaceCrack": 2,
+          "railheadWear": 1,
+          "surfaceWear": 6
+        },
+        {
+          "position": 200,
+          "surfaceCrack": 3,
+          "railheadWear": 4,
+          "surfaceWear": 5
+        },
+        {
+          "position": 230,
+          "surfaceCrack": 5,
+          "railheadWear": 3,
+          "surfaceWear": 4
+        },
+        {
+          "position": 280,
+          "surfaceCrack": 1,
+          "railheadWear": 7,
+          "surfaceWear": 12
+        }
+      ]
+    }
+  ]
+}
